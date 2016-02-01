@@ -1,5 +1,5 @@
 This repo contains a R script run_analysis.R.
-When the the directory Samsung data directory "UCI HAR Dataset" is in the working directory, sourcing run_analysis.R will do the following:
+When the Samsung phone accelerator data directory "UCI HAR Dataset" is in the working directory, sourcing run_analysis.R will do the following:
 
 1. Merges the training and the test sets to create one data set.
 1. Extracts only the measurements on the mean and standard deviation for each measurement.
